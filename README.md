@@ -13,4 +13,4 @@ Keep in mind this is going to be a real React Native basic project. Every single
 
 First of all. You're gonna need to install your React environment. 
 
-## 
+[Blank project](https://github.com/ericxlive/learn-react-native/tree/start)
