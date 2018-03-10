@@ -10,4 +10,15 @@ Keep in mind this is going to be a real React Native basic project. Every single
 
 The very first thing you will see is a Component. The very first element is called by default HelloWorldApp, which it's also a Component. Every single thing you see in your screen is a Component.
 
+```
+React/pilot [master] » tree -L 1 
+.
+├── App.js
+├── App.test.js
+├── README.md
+├── app.json
+├── node_modules
+└── package.json
+```
+
 [First component](#)
