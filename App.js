@@ -1,12 +1,12 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import MyOwnComponent from './MyOwnComponent';
+import Apple from './Apple';
 
 export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <MyOwnComponent/> 
+        <Apple/> 
       </View>
     );
   }
