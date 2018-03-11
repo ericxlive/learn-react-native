@@ -5,20 +5,10 @@ A real React Native project.
 
 Keep in mind this is going to be a real React Native basic project. Every single push in my github repository is going to fork from the original version of this project. You will be able to fork every single step as a project and do the work you want to do. 
 
-# Getting Started
-[Blank project](https://github.com/ericxlive/learn-react-native/tree/start)
+* [Getting Started](https://github.com/ericxlive/learn-react-native/tree/start)
+* [First Component](#)
 
-The very first thing you will see is a Component. The very first element is called by default HelloWorldApp, which it's also a Component. Every single thing you see in your screen is a Component.
 
-```
-React/pilot [master] » tree -L 1 
-.
-├── App.js
-├── App.test.js
-├── README.md
-├── app.json
-├── node_modules
-└── package.json
-```
 
-[First component](#)
+
+
