@@ -8,8 +8,5 @@ Keep in mind this is going to be a real React Native basic project. Every single
 * [Getting Started](https://github.com/ericxlive/learn-react-native/tree/start)
 * [First Component](#)
 
-* TO BE COMPLETED
-
-
 
 
