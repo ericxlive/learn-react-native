@@ -10,3 +10,4 @@ Keep in mind this is going to be a real React Native basic project. Every single
 
 
 
+
